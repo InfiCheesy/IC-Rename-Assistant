@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" height="30" style="vertical-align:-2px;" /> IC Rename Assistant
+  <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" height="40" style="vertical-align:middle;" /> IC Rename Assistant
 </h1>
 
 <p align="center"><em>115 网盘批量重命名助手（电影 / 电视剧自动规范命名）</em></p>
@@ -41,4 +41,5 @@ IC-Rename-Assistant/
 
 ## License
 MIT
+
 
