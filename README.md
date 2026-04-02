@@ -1,6 +1,6 @@
 ﻿<h1 align="center" style="margin:0;">
-  <span style="display:flex;justify-content:center;align-items:center;gap:12px;">
-    <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" height="40" style="display:block;transform:translateY(122px);" />
+  <span style="--logo-size:40px;--logo-offset:2px;display:flex;justify-content:center;align-items:center;gap:12px;">
+    <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" style="height:var(--logo-size);width:auto;display:block;transform:translateY(var(--logo-offset));" />
     <span style="display:block;line-height:1;">IC Rename Assistant</span>
   </span>
 </h1>
@@ -44,5 +44,6 @@ IC-Rename-Assistant/
 
 ## License
 MIT
+
 
 
