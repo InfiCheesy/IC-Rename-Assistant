@@ -22,7 +22,7 @@
 
 ## 使用方式
 1. 安装 Tampermonkey（或同类用户脚本管理器）。
-2. 新建脚本并粘贴 [`source .js`](./source%20.js) 内容。
+2. 在仓库 `Release` 页面下载最新版脚本文件并导入 Tampermonkey。
 3. 打开 `https://115.com/` 文件列表页，勾选需要重命名的文件。
 4. 在面板中确认片名、季数、集数偏移等参数后执行重命名。
 
@@ -41,3 +41,4 @@ IC-Rename-Assistant/
 
 ## License
 MIT
+
