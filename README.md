@@ -1,5 +1,5 @@
 ﻿<h1 align="center" style="margin:0;">
-  <span style="--logo-size:40px;--logo-offset:2px;display:flex;justify-content:center;align-items:center;gap:12px;">
+  <span style="--logo-size:4px;--logo-offset:2px;display:flex;justify-content:center;align-items:center;gap:12px;">
     <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" style="height:var(--logo-size);width:auto;display:block;transform:translateY(var(--logo-offset));" />
     <span style="display:block;line-height:1;">IC Rename Assistant</span>
   </span>
