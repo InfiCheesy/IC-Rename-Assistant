@@ -1,5 +1,8 @@
 ﻿<h1 align="center">
-  <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" height="40" align="absmiddle" /> IC Rename Assistant
+  <span style="display:inline-flex;align-items:center;gap:10px;">
+    <img src="./logo/IC开发LOGO.svg" alt="IC Rename Assistant Logo" height="40" />
+    <span>IC Rename Assistant</span>
+  </span>
 </h1>
 
 <p align="center"><em>115 网盘批量重命名助手（电影 / 电视剧自动规范命名）</em></p>
